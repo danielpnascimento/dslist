@@ -10,4 +10,6 @@ public class DslistApplication {
 		SpringApplication.run(DslistApplication.class, args);
 	}
 
+	//Sistema de coleção de jogos
+
 }

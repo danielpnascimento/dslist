@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 //Anotação que faz o registro da service e a
-//anotação @Component faz a mesma coisa
+//anotação @Component faz a mesmo
 @Service
 public class GameService {
 
