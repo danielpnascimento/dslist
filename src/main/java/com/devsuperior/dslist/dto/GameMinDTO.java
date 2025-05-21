@@ -2,6 +2,7 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
+//Criando um dto com apenas 5 campos principais
 public class GameMinDTO {
 
     private Long id;
@@ -13,7 +14,7 @@ public class GameMinDTO {
     public GameMinDTO() {
     }
 
-    //Construtor onde copia os dados da Classe/entidade Game para a dto
+    //Construtor onde copia os 5 dados da Classe/entidade Game para a dto
     public GameMinDTO(Game entity) {
         id = entity.getId();
         title = entity.getTitle();
