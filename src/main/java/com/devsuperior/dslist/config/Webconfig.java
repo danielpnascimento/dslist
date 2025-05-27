@@ -23,3 +23,7 @@ public class Webconfig {
 }
 //Configuração de restrição de acesso apenas por um endereço/url
 // onde acesso por outra url ele o cors irá bloquear
+//Essa parte e para implantação na nuvem e não foi possivel a realização
+//devido o railway não ser mais free onde terá que ter acesso e inclusão de
+//cartão de crédito, porém na aula3 ele informou que fica apenas para exemplo futuros
+//não precisar realizar!
